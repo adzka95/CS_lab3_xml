@@ -1,0 +1,6 @@
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\Numerki\lab3\bin\Debug\lab3.exe.config
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\Numerki\lab3\bin\Debug\lab3.exe
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\Numerki\lab3\bin\Debug\lab3.pdb
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\Numerki\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\Numerki\lab3\obj\Debug\lab3.exe
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\Numerki\lab3\obj\Debug\lab3.pdb
